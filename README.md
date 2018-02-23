@@ -5,6 +5,13 @@ Design Patterns - Strategy
 A company can have a factory. If company has a factory, it can produce product.
 If Company wants to change its factory, we need not to change `Company Class`.
 
+#### Usage
+```bash
+git clone https://github.com/bkayranci/dp-strategy.git
+cd dp-strategy
+dotnet run
+```
+
 #### Example
 ```csharp
 
